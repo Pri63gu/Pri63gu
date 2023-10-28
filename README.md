@@ -1,7 +1,7 @@
 https://img.freepik.com/premium-vector/illustration-concept-developing-mobile-internet-applications_182292-214.jpg?size=626&ext=jpg&ga=GA1.1.1707087416.1698509125&semt=ais
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
 <h3 align="center">Building the Web, One Line at a Time</h3>
-<img align=“right” alt=“Coding” width=“400” src=“[https://iconscout.com/lottie-animation/coder-8037699](https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl/fullscreen)”
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left"> <a href="https://twitter.com/priyanshugweb" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshugweb?logo=twitter&style=for-the-badge" alt="priyanshugweb" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Tailwind**
