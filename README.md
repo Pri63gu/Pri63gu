@@ -4,11 +4,11 @@ https://img.freepik.com/premium-vector/illustration-concept-developing-mobile-in
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left"> <a href="https://twitter.com/priyanshugweb" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshugweb?logo=twitter&style=for-the-badge" alt="priyanshugweb" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Tailwind**
+- 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **pg798308@gmail.com**
+- 📫 How to reach me **guptapriyanshu6345@gmail.com**
 
-- ⚡ Fun fact **I am Serious**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
